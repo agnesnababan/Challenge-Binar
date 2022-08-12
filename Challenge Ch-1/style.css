@@ -1,0 +1,108 @@
+body {
+    scroll-behavior: smooth;
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar-expand-lg {
+    background-color: #F1F3FF;
+}
+
+
+/* .register {
+    background-color: #5CB85F;
+    padding: 8px 12px;
+    font-family: Helvetica;
+    align-items: center;
+    width: 81px;
+    height: 36px;
+    border-radius: 2px;
+    order: 4;
+    box-shadow: none;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    font-style: normal;
+    color: #FFFF;
+} */
+
+.main-section {
+    justify-content: space-between;
+    display: flex;
+    background-color: #F1F3FF;
+    width: 1440px;
+    height: 500px;
+}
+
+.sewa-mobil {
+    margin-left: 136px;
+}
+
+.sewa-mobil h1 {
+    height: 60px;
+    width: 468px;
+    margin-top: 177px;
+}
+
+.btn-success {
+    background-color: #5CB85F;
+}
+
+.sewa-mobil p {
+    margin-top: 124px;
+}
+
+.gambar-mobil {
+    width: 704px;
+    height: 407px;
+    margin-top: 97px;
+    margin-left: 144px;
+}
+
+.gambar-service {
+    margin-top: 104px;
+}
+
+.our-services {
+    display: flex;
+}
+
+.deskripsi {
+    width: 468px;
+    height: 356px;
+    margin-left: 86px;
+    margin-top: 136px;
+    margin-right: 207px;
+}
+
+.our-services {
+    justify-content: space-between;
+}
+
+.row {
+    justify-content: flex-start;
+}
+
+.start-section {
+    background: #0D28A6;
+    border-radius: 13px;
+    width: 1168px;
+    height: 326px;
+    margin-left: 136px;
+    margin-top: 156px;
+    color: #FFFF;
+}
+
+.get-start-section {
+    /* margin-top: 1px; */
+    text-align: center;
+}
+
+.why-us {
+    width: 1168px;
+    height: 308px;
+    margin-top: 100px;
+    margin-left: 138px;
+}
